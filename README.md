@@ -1,1 +1,5 @@
-# Pharmacy-Management-Program
+<img width="13347" height="115" alt="image" src="https://github.com/user-attachments/assets/0785153b-7d2d-4de3-9f3d-f6d71d267473" /># Pharmacy-Management-Program
+The Pharmacy Management System is a command-line based Python application developed to efficiently manage the operations of a pharmacy. This project demonstrates key programming concepts such as object-oriented programming, modular coding, data handling using classes, and real-time user interaction through menu-driven inputs, Designed to be simple yet functional, this Pharmacy Management System aims to improve operational efficiency, reduce manual errors, and support the digital transformation of small-scale pharmacy businesses.
+The primary goal of this Pharmacy Management System is to streamline and automate the daily operations of a pharmacy using Python. It aims to efficiently manage medicine inventory, customer records, and prescription tracking through a user-friendly interface. Ultimately, the project promotes operational efficiency, accuracy, and improved customer service within the pharmacy environment.
+<img width="9511" height="115" alt="image" src="https://github.com/user-attachments/assets/caa80bef-902c-445d-9a7f-efe3c8041ed6" />
+
